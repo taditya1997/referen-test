@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.modal-content {
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  
+  .modal-scroll {
+    max-height: 200px;
+    overflow-y: auto;
+  }
